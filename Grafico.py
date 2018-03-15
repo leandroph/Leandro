@@ -6,7 +6,7 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
 
-#hehehe
+
 # ------PARTE VISUAL------ #
 
 # Criação da classe janela, permitindo gerenciar toda a parte da aplicação do usuário
